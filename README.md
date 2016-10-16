@@ -1,3 +1,3 @@
 # Sample
 My Sample githut project for study git.
-first edit of git project readme file.
+This is the first edit of git project readme file.
